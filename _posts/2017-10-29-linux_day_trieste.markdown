@@ -30,6 +30,6 @@ Andrej ci racconta la sua esperienza:
 > Direi che è stata una giornata davvero positiva. Le persone che si sono avvicinate al desk [ITPUG](http://www.itpug.org/index.it.html) hanno fatto domande specifiche, i più erano interessati alla parte high availability / multi master. Grazie alla campagna
 divulgativa che porto avanti da qualche anno, non mi rivolgono più domande su comparazioni con MySQL ma bensì esse sono sempre più tecniche e complesse.
 
-Nuovamente grazie al [LugTS - Linux Users Group](http://trieste.linux.it/) per averci ospitato.
+Nuovamente grazie al [LugTS - Linux Users Group di Trieste](http://trieste.linux.it/) per averci ospitato.
 
 Buon PostgreSQL a tutti!
