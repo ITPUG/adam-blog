@@ -226,7 +226,11 @@ Continuando a chiedere il supporto dei partecipanti nell'organizzazione della pr
 - Esempi pratici di file di configurazione e simili per backup, recovery e simili; non solo nomi e immagini con frecce.
 - Postgres XL
 
-Salta all'occhio la forte richiesta verso il GIS, o meglio PostGIS, ....
+Salta all'occhio la forte richiesta verso il GIS, o meglio PostGIS del tutto inaspettata.Una richiesta che spazia dall'informazione sull’integrazione di PostgreSQL/PostGIS con servizi GIS esterni esistenti, alla richiesta di presentazione di case study correlati di maggiori  note tecniche), fino all'uso dello stack PostGIS/pgRouting per il routing e la navigazione.
+
+Altre richieste degne di nota, sono le maggiori indicazioni su tuning e ottimizzazione, magari per specifico caso, trucchi e ottimizzazione delle query stesse (a livello di SQL, sia linguaggio standard che estensione fornita da PostgreSQL) e relativi strumenti per la profilazione (vedi richieste su EXPLAIN), presentazione di qualche driver di comunicazione con PostgreSQL, e scalabilità (vedi partizionamento/PostgresXL).
+
+Il nostro augurio è che le proposte di talk per il PGDay.IT 2018 terranno di conto di tutte le segnalazioni che ci sono pervenute. Grazie a tutti!
 
 **L'idea di programmare dei workshop ti sembra interessante?**
 
@@ -272,3 +276,11 @@ Per questa giornata apriremo una call for workshop, cercando di rispettare al ma
 - Dump/Restore
 - Ottimizzazione query, Uso e scelta degli indici
 - Come configurare adeguatamente un sistema e come scrivere query per sfruttare a pieno le potenzialità di Postgres
+
+Per quanto riguarda i workshop è emerso che l'interesse principale è verso la scrittura di nuove estensioni per PostgreSQL, le soluzioni di business continuity, DB delocalizzati (replica multimaster), ed anche qui ottimizzazione delle query e uso degli indici e relativi strumenti di profilazione.
+
+Ancora grazie a tutti per la collaborazione.
+
+**Ci vediamo al PGDay.IT 2018!**
+
+Buon PostgreSQL a tutti!
