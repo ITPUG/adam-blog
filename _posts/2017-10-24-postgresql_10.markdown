@@ -1,0 +1,129 @@
+---
+layout: post
+title:  PostgreSQL 10
+date:   2017-10-24 13:32:20 +0300
+description: Il 5 ottobre 2017 è stata rilasciata la [release 10 di PostgreSQL](https://www.postgresql.org/about/press/presskit10/). # Add post description (optional)
+img: PostgreSQL_10.jpg # Add image post (optional)
+tags: [Blog, PostgreSQL, Open Source, nuova release]
+author: ITPUG - ITalian PostgreSQL Users Group # Add name author (optional)
+---
+Il 5 ottobre 2017 è stata rilasciata la [release 10 di PostgreSQL](https://www.postgresql.org/about/press/presskit10/).
+
+Membri dell'Associazione [ITPUG](http://www.itpug.org/index.it.html) hanno lavorato alla traduzione del press kit ed hanno predisposto un [PDF]({{site.baseurl}}/assets/file/PostgreSQL_10.pdf) che mette in evidenza 5 funzionalità di rilievo presentate da questa nuova major release.
+
+![PostgreSQL Postgres]({{site.baseurl}}/assets/img/postgresql_postgres.jpg)
+
+# UN DATABASE DI COMUNITÀ
+
+PostgreSQL è il leader dei sistemi di gestione di database open source, con una comunità internazionale costituita da migliaia di utenti e sviluppatori nonché decine di aziende ed enti provenienti da tutte le parti del mondo. Il progetto PostgreSQL vanta 27 anni di attività di ingegneria del software, a partire dall’Università di California a Berkeley, e oggi presenta un ritmo di sviluppo senza uguali. La gamma di funzionalità mature messe a disposizione da PostgreSQL non soltanto è in grado di competere con quelle offerte da sistemi di database proprietari, ma le migliora in termini di funzionalità avanzate, estensibilità, sicurezza e stabilità. Per conoscere meglio PostgreSQL e partecipare attivamente alla nostra comunità, visita www.postgresql.org e, per l’Italia, [www.itpug.org](http://www.itpug.org/index.it.html)
+
+# 32 ANNI DI INNOVAZIONE NEL CAMPO DEI DATABASE
+
+Il progetto POSTGRES fu inaugurato all’Università di California a Berkeley nel giugno del 1986 con la pubblicazione del progetto originale di POSTGRES da parte di Lawrence A. Rowe e Michael R. Stonebraker. Nei 27 anni successivi, POSTGRES è divenuto un progetto open source. Una volta adottato il linguaggio SQL, ha cambiato nome in PostgreSQL ed è diventato un software leader nel settore dei database relazionali. Oggi la comunità di PostgreSQL compete con alcune delle più importanti e grandi aziende di software al mondo, producendo innovazione nel settore dei sistemi di database e raggiungendo prestazioni sempre più elevate. Ci sono state ben 25 release di POSTGRES e PostgreSQL, compresa la 9.3. PostgreSQL è l’unico tra i principali sistemi di database SQL ad avere pubblicato ogni anno, con regolarità, una nuova versione ricca di funzionalità.
+
+# Press Kit di PostgreSQL 10
+
+## Sommario
+
+* Comunicato stampa originale
+* Funzionalità in maggior dettaglio
+* Dove scaricare PostgreSQL
+* Documentazione
+* Licenza
+* Contattaci
+* Logo e immagini
+* Informazioni su PostgreSQL
+* Testo completo delle citazioni e informazioni sulle relative aziende
+* Supporto alle aziende
+
+## Comunicato stampa originale
+
+*5 OTTOBRE 2017* - Il PostgreSQL Global Development Group ha annunciato oggi il rilascio di PostgreSQL 10, l'ultima versione del più avanzato database open source al mondo.
+
+Una funzionalità critica richiesta dai moderni carichi di lavoro è l'abilità di distribuire dati su più nodi per renderne più veloce l'accesso, la gestione e l'analisi - conosciuta anche come strategia "divide et impera". PostgreSQL 10 comprende miglioramenti significativi per implementare la strategia dividi e domina, fra cui la replica logica nativa, il partizionamento dichiarativo di tabelle e query parallele più potenti.
+
+> "La nostra comunità di sviluppatori si è concentrata sullo sviluppo di funzionalità che potessero sfruttare le moderne infrastrutture per workload distribuiti", afferma Magnus Hagander, membro del [core team](https://www.postgresql.org/developer/core/) del [PostgreSQL Global Development Group](https://www.postgresql.org/). "Funzionalità come replica logica e query parallele più potenti rappresentano anni di lavoro e testimoniano la dedizione della comunità nel garantire la posizione di leadership tecnologica di PostgreSQL."
+
+Questa release inoltre segna il cambio dello schema di versionamento di PostgreSQL al formato "x.y". Ciò significa che la prossima minor release di PostgreSQL sarà la 10.1, mentre la prossima major release sarà la 11.
+
+## Replica logica
+
+_Una piattaforma publish/subscribe per distribuire i dati_
+
+La replica logica estende le funzionalità di replica attualmente presenti in PostgreSQL con l'abilità di inviare modifiche a livello di singolo database o tabella ad altri database PostgreSQL. Gli utenti possono controllare i dati replicati su altri cluster di database, e avranno la possibilità di effettuare upgrade con downtime zero a future major release di PostgreSQL.
+
+## Partizionamento dichiarativo di tabella
+
+_Semplicità nel dividere i tuoi dati_
+
+Il partizionamento di tabella esiste in PostgreSQL da molti anni, ma ha sempre richiesto agli utenti di mantenere un insieme di regole e trigger affinché il partizionamento potesse funzionare. PostgreSQL 10 introduce una sintassi per il partizionamento delle tabelle che permette agli utenti di creare e mantenere in modo molto semplice tabelle partizionate per range o lista. L'aggiunta di questa sintassi è il primo passo di una serie di funzionalità pianificate per garantire nel lungo termine una robusta infrastruttura di partizionamento all'interno di PostgreSQL.
+
+## Query parallele più potenti
+
+_Domina in modo veloce le tue analisi_
+
+PostgreSQL 10 fornisce un miglior supporto per le query parallele, permettendo a più parti del processo di esecuzione delle query di svolgersi in concorrenza. I miglioramenti comprendono nuovi tipi di scansione dei dati che sono eseguiti in parallelo, e ottimizzazioni in fase di aggregazione dei dati, come il pre-ordinamento. Queste funzionalità garantiscono risultati più veloci.
+
+## Replica sincrona con commit basata su quorum
+
+_Distribuisci i dati in sicurezza_
+
+PostgreSQL 10 introduce il commit basato su quorum per la replica sincrona, che da flessibilità al modo in cui il database primario riceve la conferma da parte delle repliche remote che i cambiamenti siano stati scritti con successo. Un amministratore è adesso in grado di specificare che, se qualsiasi numero dei server standby confermi l'accettazione delle modifiche al database, i dati siano considerati sicuramente scritti.
+
+## Autenticazione SCRAM-SHA-256
+
+_Metti al sicuro l'accesso ai tuoi dati_
+
+SCRAM, acronimo di "Salted Challenge Response Authentication Mechanism", parte in RFC5802, definisce un protocollo per il miglioramento della memorizzazione e della trasmissione di password tramite l'implementazione di un framework per la negoziazione di password. PostgreSQL 10 introduce il metodo di autenticazione SCRAM-SHA-256, definito in RFC7677, per fornire maggior sicurezza del metodo di autenticazione di password basato su MD5.
+
+## Funzionalità in maggior dettaglio
+
+Per spiegazioni sulle funzionalità elencate sopra e per ulteriori informazioni, si rimanda alle seguenti risorse:
+
+* [Note di rilascio](https://www.postgresql.org/docs/current/static/release-10.html)
+* [What's New in 10, sezione del wiki di PostgreSQL dedicata alle novità della 10 (in inglese)](https://wiki.postgresql.org/wiki/New_in_postgres_10)
+* [Feature matrix (in inglese)](https://www.postgresql.org/about/featurematrix/)
+* [Major Features slide deck (in inglese)](https://momjian.us/main/writings/pgsql/features.pdf)
+* [Major Features slide deck (2) (in inglese)](https://www.hagander.net/talks/PostgreSQL_10.pdf)
+
+# Download
+
+* [Pagina di download con link ad installer per Windows, Linux, OSX, BSD e Solaris e ad applicazioni varie.](https://www.postgresql.org/download/)
+* [Codice sorgente](https://www.postgresql.org/ftp/source/v10.0/)
+* [Immagine Postgres Docker](https://hub.docker.com/_/postgres/)
+* [PostgreSQL Extension Network](https://pgxn.org/)
+
+# Documentazione
+
+La documentazione in formato HTML ed il manuale in formato man sono installati contestualmente a PostgreSQL. Tuttavia è estremamente consigliato navigare la nostra [documentazione online](https://www.postgresql.org/docs/10/static/).
+
+# Licenza
+
+PostgreSQL utilizza la [Licenza PostgreSQL](https://www.postgresql.org/about/licence/), una licenza in stile BSD molto permissiva. Questa licenza [certificata da OSI](https://opensource.org/licenses/postgresql) è unanimemente apprezzata per la sua natura flessibile e business-friendly, in quanto non limita l'impiego di PostgreSQL in applicazioni proprietarie e commerciali. Insieme al supporto multi-azienda ed alla proprietà diffusa e pubblica del codice, la nostra licenza rende PostgreSQL molto popolare con i vendor che intendono incorporare il database all'interno dei loro prodotti senza alcun timore di incappare in costi, forme di lock-in o cambi nei termini e nelle condizioni di licenza.
+
+# Contattaci
+
+Riferimenti sul web
+
+* [Home page di PostgreSQL](https://www.postgresql.org/)
+* [Associazione culturale Italian PostgreSQL Users Group (ITPUG)](http://www.itpug.org/index.it.html)
+
+# Testo completo delle citazioni e informazioni sulle relative aziende
+
+> "Abbiamo usato estensivamente PostgreSQL fino dalla versione 9.3 e siamo molto eccitati per la versione 10, dato che incorpora il supporto per il tanto atteso partizionamento e per la replica logica. Ci permetterà di usare PostgreSQL in ancora più servizi," dice Vladimir Borodin, DBA Team Lead presso [Yandex](https://www.yandex.com/).
+
+[Yandex](https://www.yandex.com/) un'azienda tecnologica che sviluppa prodotti intelligenti e servizi alimentati dal machine learning. L'obiettivo di Yandex è di aiutare i clienti e le aziende a districarsi meglio nel mondo online e in quello offline. Yandex ha inoltre sviluppato prodotti su misura leader del mercato tra cui: dispositivi di trasporto, navigazione e applicazioni mobili per milioni di utenti in tutto il mondo. Per contattare, visita il sito [https://yandex.com/company/contacts/](https://yandex.com/company/contacts/moscow/)
+
+> "Il Quorum Commit per la replica sincrona in PostgreSQL 10 aumenta la nostra possibilità di promuovere l'infrastruttura di database con downtime vicino a zero per quel che riguarda le applicazioni. Questo ci consente di mettere in servizio e di aggiornare la nostra infrastruttura di database in continuazione, senza incorrere in lunghi tempi di manutenzione," dice Curt Micol, Staff Infrastructure Engineer presso [Simple Finance](https://www.simple.com/).
+
+Fondata nel 2009, [Simple](https://www.simple.com/) è un'azienda tecnologica che sta cambiando il modo in cui persone e banche pensano ai loro soldi. Il prodotto Simple unisce pianificazione del budget al fare banca all'interno di una singola applicazione, con strumenti che aiutano le persone a risparmiare e a spendere i loro soldi in modo responsabile. Contatta [Simple](https://www.simple.com/) via email a [press@simple.com](mailto:press@simple.com)
+
+# Supporto alle aziende
+
+PostgreSQL gode del supporto di tante aziende pronte a sponsorizzare sviluppatori, a fornire servizi di hosting e a contribuire economicamente al progetto. Il sito comprende una [pagina di sponsor](https://www.postgresql.org/about/sponsors/) principali del progetto PostgreSQL.
+
+Esiste anche un vasto gruppo di [aziende che offrono supporto professionale a PostgreSQL](https://www.postgresql.org/support/professional_support/), da liberi professionisti e consulenti fino a aziende multinazionali.
+
+[Donazioni](https://www.postgresql.org/about/donate/) sono bene accette e gradite.
+
+Oppure potete acquistare il nostro elegante merchandise dal nostro [Zazzle PostgreSQL Store](https://www.zazzle.com/postgresql).

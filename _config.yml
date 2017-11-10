@@ -1,28 +1,29 @@
-title: My personal blog - Adam Neilson
-email: your-email@domain.com
+title: Il nostro blog ITPUG - ITalian PostgreSQL Users Group
+email: info@itpug.org
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  ITPUG - Italian PostgreSQL Users Group è una associazione no-profit per la promozione, divulgazione e la tutela del Software Libero (FLOSS) in Italia.
+  In modo particolare, l'associazione ITPUG promuove l'adozione  di PostgreSQL (http://www.postgresql.org), uno dei progetti open source di maggior successo.
+
 permalink: ':title/'
-baseurl: "/adam-blog" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/blog.itpug.org" # the subpath of your site, e.g. /blog
+url: "https://itpug.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author settings
-author: Adam Neilson # add your name
-author-pic: adam-face.jpg
-about-author: My name is Adam Neilson. I’m a full-time adventure travel blogger and photographer who’s been exploring the world for over 2 years.
+author: ITPUG - ITalian PostgreSQL Users Group # add your name
+author-pic: itpug_logo125.jpg
+about-author: ITPUG - Italian PostgreSQL Users Group è una associazione no-profit per la promozione, divulgazione e la tutela del Software Libero (FLOSS) in Italia.
+    In modo particolare, l'associazione ITPUG promuove l'adozione  di PostgreSQL (http://www.postgresql.org), uno dei progetti open source di maggior successo.
 
 # Contact links
-email: # Add your Email address
-phone: # Add your Phone number
-website: # Add your website, do not add http://
-linkedin: # Add your Linkedin handle
-github: artemsheludko # Add your Github handle
-twitter: '@artemsheludko_' # Add your Twitter handle
+email: info@itpug.org # Add your Email address
+# phone: # Add your Phone number
+website: www.itpug.org/index.it.html # Add your website, do not add http://
+linkedin: 11134629/ # Add your Linkedin handle
+github: ITPUG # Add your Github handle
+twitter: '@ITPUGPRESS' # Add your Twitter handle
 facebook: # Add your Facebook handle
-instagram: # Add your Instagram handle
-pinterest: # Add your Pinterest handle
+flickr: photos/itpug/ # Add your flickr handle
+# pinterest: # Add your Pinterest handle
 
 # Newsletter
 mailchimp: # Add your MailChimp form identifier.

@@ -1,0 +1,274 @@
+---
+layout: post
+title:  PGDay.IT 2017
+date:   2017-10-25 13:32:20 +0300
+description: Il 13 ottobre 2017 si è svolta a Milano l'undicesima edizione del PGDay.IT organizzata, come ogni anno, dall'Associazione ITPUG - ITalian PostgreSQL Users Group # Add post description (optional)
+img: PGDayIT2017.jpg # Add image post (optional)
+tags: [Blog, PGDay.IT, ITPUG, PostgreSQL, Conferenze]
+author: ITPUG - ITalian PostgreSQL Users Group # Add name author (optional)
+---
+Il [13 ottobre 2017 si è svolta a Milano l'undicesima edizione del PGDay.IT](http://2017.pgday.it/it/) organizzata, come ogni anno, dall'Associazione [ITPUG - ITalian PostgreSQL Users Group](http://www.itpug.org/index.it.html)
+
+Inaspettata la fantastica affluenza ed ancora più inaspettata la disponibilità dei partecipanti a compilare il feedback form predisposto per l'occasione.
+Ben 84 le risposte pervenute su 190 partecipanti. Grazie!
+
+Ed è quindi giunto il momento di tirare le somme, attraverso grafici e riportando fedelmente le note ed i commenti segnalati.
+
+Premessa d'obbligo: sarà una lunga lettura, ma non riteniamo corretto selezionare/riportare solo una parte delle risposte. Da parte nostra, terremo di conto di tutti i suggerimenti e note che sono state riportate al fine di migliorarci.
+
+Il feedback form è stato predisposto per rendere il più possibile agevole e veloce la sua compilazione, lasciando ampio spazio a commenti liberi, di ogni sorta. Non erano richieste risposte obbligatorie ed il valore dei voti prevedeva un range da 1 a 6 dove 6 rappresentava l'ottimale.
+
+Alla domanda: _Quanto ti ha soddisfatto complessivamente la tua partecipazione al PGDay.IT 2017?_ questo è il risultato
+
+![soddisfazione generale]({{site.baseurl}}/assets/img/pgday_2017_soddisfazione_partecipazione.jpg)
+
+con un risultato medio di 5,06. Possiamo ritenerci soddisfatti, considerando le problematiche derivanti dal catering. Decisamente non adeguato e non ha rispettato le nostre aspettative ... per non parlare delle aspettative dei partecipanti:
+
+> - Migliorare il catering.
+- L'unica parte carente della giornata è stato la parte di coffe break e pranzo. Insufficiente (sopratutto il pranzo) e di bassa qualità.
+- Il catering è stato un problema.
+- More coffee in the hallway :) .
+- L'accesso al cibo è stato difficoltoso e in un ambiente assolato.  
+- Occhio alla logistica del pranzo per le prossime.
+- Catering indecente, la gente mangiava il pane.
+- Problemi con il catering, non sono riuscito ad assaggiare altro che *un* piatto di pasta, e solo dopo mia insistente richiesta ... inoltre non ho potuto pranzare con una persona che era con me a Milano, mi è stato chiesto il pagamento del ticket dell'evento (47 euro), fortunatamente, data la pessima qualità del servizio catering, non ho accettato.
+- I tavoli del catering erano troppo vicini alle aule e troppo vicini tra loro, in questo modo c'era troppa ressa.
+- Il catering a Prato era fornito meglio! 😁
+
+Andando avanti, sempre restando su aspetti generici, abbiamo posto una serie di domande più mirate alla prossima edizione del PGDay.IT
+
+- Pensi che programmarla di venerdì sia una buona idea? **SI il 90,91%**
+- Pensi che aver programmato il PGDay.IT 2018 per il 28 e 29 giugno sia una buona idea?	**SI il 74,79%**
+- Cosa ne pensi della sede proposta (Desenzano del Garda)? **SI il 83,33%**
+- Raccomanderesti il PGDay.IT ai tuoi contatti/colleghi/amici? **SI il 96,25%**
+- L'idea di programmare dei workshop ti sembra interessante? **SI il 90,28%**
+
+![varie 1]({{site.baseurl}}/assets/img/pgday_2017_domande_varie1.jpg)
+
+Ma la cosa importante è lasciare spazio ai commenti che liberamente ci hanno lasciato su questi argomenti:
+
+**Pensi che programmarla di venerdì sia una buona idea?**
+
+> - SI / YES, ma per sfruttare al meglio occorrerebbe una località di villeggiatura (vedi Desenzano) in modo che si possa pensare di fare anche il fine settimana lungo
+
+**Pensi che aver programmato il PGDay.IT 2018 per il 28 e 29 giugno sia una buona idea?**
+
+> - Non lo saprei
+- NO / NO, troppo vicino alle vacanze
+- Indifferente, forse troppo presto fra 9 mesi.. - non so. forse no
+- SI / YES, vedi considerazione espressa per il punto precedente
+- Potrebbe andare in conflitto con le ferie a rischio della partecipazione
+- Non so
+- Non saprei, forse un po' troppo estiva
+- Could be holiday period for lots of people
+- SI / YES, NO / NO : dipende come verrà distribuito il programma, due giorni potrebbero essere impegnativi
+- Non saprei...
+- Vediamo. Professionalmente parlando molti cercano di chiudere i progetti prima delle ferie. Non vorrei che l'affluenza cali di conseguenza.
+
+**Cosa ne pensi della sede proposta (Desenzano del Garda)?**
+
+> - MILANO E' MEGLIO
+- Meglio città grosse
+- Ma perchè? La gente vuole imparare non farsi la gita sul lago.
+- NO / NO, milano è raggiungibile da tutti comodamente
+- SI / YES, ottima scelta e località ben nota
+- Where?
+- SI / YES, Ottima location :-)
+- Bellissimo, ma non raggiungibile. Milano si raggiunge in giornata col treno.
+- Milano
+- NO / NO, poco raggiungibile
+- Bella ma un po' fuori mano
+- SI / YES, anche se poco raggiungibile coi mezzi pubblici
+- NO / NO, Difficile da raggiungere
+- Ottima scelta per me ma forse presenta qualche problema di raggiungibilità per altri
+- Probabilmente non facile da raggiungere per molte persone
+- Non so
+- Indifferente
+
+**Raccomanderesti il PGDay.IT ai tuoi contatti/colleghi/amici?**
+
+> - SI / YES, grande competenza di dominio affiancate da casi d'uso che rendono umano PostgreSQL
+- SI / YES, solo per chi già lavora/usa PG
+- Sì, è una manifestazione importante per diffondere Postgres
+- SI / YES, Argomenti interessanti
+- SI / YES, Un'ottima occasione per spunti da approfondire successivamente
+- Penso di sì, è sempre utile venire a conoscenza di tecnologie e loro impieghi
+
+**L'idea di programmare dei workshop ti sembra interessante?**
+> - Si ma 2h 30m sono poche
+- Gli anni scorsi c'era un laboratorio che ha attirato parecchia attenzione. Forse si potrebbe tentare di ripeterla.
+- It is not clear if these workshops would be in a form of lecture with practical examples or free-form hack-lab with additional help from developers/lecturers?
+
+Le domande successive erano volte più alla comprensione di quelli che erano stati i punti di forza e di debolezza nell'organizzazione del [PGDay.IT 2017](http://2017.pgday.it/it/), ricordando che il punteggio massimo è 6:
+
+- Come hai trovato la sede scelta per il PGDay.IT 2017? **Valutazione media 4,99**
+- Che valutazione dai all'organizzazione del PGDay.IT 2017? **Valutazione media 5,31**
+- Trovi che la comunicazione fatta per divulgare informazioni sul PGDay.IT 2017 sia stata sufficiente? **Valutazione media 5,19**
+- Globalmente, che valutazione dai ai contenuti della conferenza? **Valutazione media 4,91**
+- Che valutazione dai in totale alla qualità delle presentazioni? **Valutazione media 4,96**
+- Quanto ti piacerebbe partecipare al PGDay.IT in futuro? **Valutazione media 5,24**
+
+![varie2]({{site.baseurl}}/assets/img/pgday_2017_domande_varie2.jpg)
+
+Valutazione media a parte, la cosa importante sono i commenti spontanei che i partecipanti hanno scritto:
+
+**Come hai trovato la sede scelta per il PGDay.IT 2017?**
+
+> - In merito alla location, la sala al piano inferiore era MOLTO piccola. Sono rimasto fuori per un paio di talk, e questo mi ha deluso abbastanza. Inoltre l'aria all'interno della sala piccola era non- respirabile.
+- La sala piccola era troppo piccola.
+- La scelta della sede a Milano per il pgday 2017 non mi è piaciuta. Difficile da raggiungere, parcheggi a pagamento veramente cari (16 euro mezza giornata!!!) e per giunta in ZTL, per fortuna quel giorno non si pagava.
+- A mio avviso, nella scelta delle prossime sedi, terrei in considerazione di avere sale del medesimo spazio per evitare di avere una sala semi vuota e una in cui la gente non riesce ad entrare.
+- Temperatura dell'edificio
+
+Giusto per dovere di cronaca, non ci aspettavamo tanta partecipazione, per cui la 2a sala, idonea per 80 persone, al momento della prenotazione ci sembrava più che idonea. Ci siamo sbagliati! Evviva!!
+
+**Che valutazione dai all'organizzazione del PGDay.IT 2017?**
+
+> - Attached microphones instead of carried ones...
+- Forse mancavano dal mio kit, ma se assieme alla maglietta e alle brochures ci fossero stati anche un blocco bianco e una biro sarebbe stato utile. Bella la maglietta, molto molto denso di scritte il retro (non so se è un bene).
+- Una url apposita sul sito per ogni utente/talk mantenendo lo storico dei vecchi PGDay
+
+Osservazioni interessanti che faremo nostre nell'organizzazione del prossimo PGDay.IT ... che sembra essere già alle porte!
+
+> - Ho molto apprezzato anche lo spirito allegro ma incredibilmente professionale che 2ndQuadrant imprime ogni volta a queste occasioni. Compreso il talk con il menestrello! 😁
+- Amazing work!
+- Avete organizzato un bell'evento, continuate così!
+- Nel complesso è stata una piacevole esperienza
+- Bravi per l'organizzazione e gli argomenti trattati!
+
+Qualche complimento fa sempre piacere ... grazie!!!
+
+> - È giusto ringraziare gli sponsor ma la manifestazione dovrebbe essere più "agnostica" per promuovere al meglio Postgres
+
+La manifestazione è organizzata da un'Associazione senza scopo di lucro: [ITPUG - ITalian PostgreSQL Users Group](http://www.itpug.org/index.it.html) e con le sole nostre forze economiche non avremmo potuto organizzare una manifestazione di tale portata. I Partner sono importanti e ringraziarli ad inizio ed a fine del PGDay.IT riteniamo sia il minimo, con la speranza di averli con noi anche nelle prossime edizioni.
+Alternativa: biglietto early bird a € 150,00 ...
+
+> - Mi sembrava più orientato alla pubblicità che alla formazione o divulgazione
+- Il taglio del PGDay dovrebbe essere più tecnico e meno fuffa.
+
+Non concordiamo, ma ci rendiamo conto di essere di parte 😁
+
+> - Sarebbe stato utile un incaricato a fotografare tutti i talk come in altre conferenze.
+
+Grande il nostro Emanuele Zamprogno! In qualità di fotografo ufficiale del [PGDay.IT 2017](http://2017.pgday.it/it/) ha scattato bellissime foto. Curiosi? Sono visibili [qui].
+
+**Trovi che la comunicazione fatta per divulgare informazioni sul PGDay.IT 2017 sia stata sufficiente?**
+
+Nessun commento aggiuntivo. Vista la valutazione media di 5,19 su 6, possiamo dire che il lavoro fatto è stato sufficiente, senza esagerare. Chissà se la nostra interpretazione è corretta 😁
+
+**Quanto ti piacerebbe partecipare al PGDay.IT in futuro?**
+
+Nessun commento specifico per questa domanda. Ricordando che la valutazione è stata di 5,24 su 6.
+
+**Globalmente, che valutazione dai ai contenuti della conferenza?** e **Che valutazione dai in totale alla qualità delle presentazioni?**
+
+> - L'organizzazione di sessioni pratiche su qualche argomento in particolare, sarebbe carino
+- Sarebbero state utili anche delle sessioni più tecniche, con esempi pratici.
+- Secondo me sono mancati dei talk di business case, rivolti a persone non prettamente tecniche.
+- Valuterei anche sessioni/speech in cui si vedano prodotti o utilizzo di prodotti: ad esempio, si è parlato di disaster e recovery, poteva esser stato utile aver visto una prova di crash e ripristino live. Analogamente, prove di tuning di query o similari. Alcuni speech poi li ho trovati troppo specifici mentre altri erano troppo generici
+- Secondo me sono mancati dei talk di business case, rivolti a persone non prettamente tecniche.
+- Avete fatto un ottimo lavoro con questo PGDAy. Se posso consigliare una ciliegina sulla torta, farei più talk specialistici (anche ridotti in termini di argomenti ma che vanno in profondo) come quello del sempre ottimo Gianni Ciolli e meno generalisti dove alcuni argomenti tendono a sovrapporsi (patroni, ha, sicurezza, ecc)
+- Preferirei meno talk, 10' più lunghi, che mostrano anche piccoli esempi, o che un maggior approfondimento
+- Il talk su Patroni è da dimenticare. Non per Patroni in sè (che è un progetto interessante), ma per la modalità di esposizione.
+- Forse OT, ma relativamente alla lingua dei talk, visto che è materia di discussione/ polemica...: è ovvio che poterli ascoltare in italiano è meglio per noi italiani, ma personalmente bado di più al contenuto, la lingua non cambia le cose (anche se fosse solo inglese). Va bene avere talk sia in it che en, forse ne farei qualcuno in più in inglese per attirare più pubblico estero.
+- Come detto prima, alcune sessioni erano troppo generiche, altre troppo specifiche e, in ogni caso, solamente slides, senza proposte live. Ad esempio, si è parlato di Django e ricerca, ma non è stata fatta nemmeno una prova. Idem per le sessioni legate a diaster e recovery o per il tuning delle query. Da considerare poi che potrebbero esserci anche partecipanti che stanno iniziando a usare Pg e vedere un confronto, live, tra prodotti diversi o risoluzioni di problemi può essere molto più convincente di mere slide testuali.
+- Alcuni speaker non erano preparati ad un talk in inglese o le slide non erano per niente chiare; nemmeno per avere almeno l'idea del talk. Gli ospiti di spessore avevano invece dell'ottimo materiale che forse sarebbe stato più immediato espandendo qualche acronimo o inserendo una slide di "glossario" per orientare i neofiti o i nuovi termini di pg10
+- Qualche altra presentazione sull'utilizzo di postgresql in orm/framework
+- Alcune presentazioni erano veramente interessanti altre erano focalizzate su cose fatte in passato senza dare un valore aggiunto in termini di contenuto
+- Keynote (EN)
+- Krzysztof Nienartowicz, Gaia Data Processing Centre in Geneva: ottimo portare use case del genere... come anche il lightning talk di Subito.
+
+
+Ultima parte, ma non la meno importante, è quella inerente alle preferenze dei [talk presentati al PGDay.IT 2017](http://2017.pgday.it/it/schedule/)
+
+![valutazione talk]({{site.baseurl}}/assets/img/pgday_2017_graduatoria_talk.jpg)
+
+A seguire gli [speaker](http://2017.pgday.it/it/speakers/) che i partecipanti si auspicano di rivedere il prossimo anno.
+
+![speaker richiesti per 2018]({{site.baseurl}}/assets/img/pgday_2017_speaker_richiesti.jpg)
+
+Pochi i commenti riferiti a questa specifica sessione:
+
+> - Gabriele Bartolini (l'ho trovato molto efficace a livello comunicativo)
+- Uno contributore del core di postgresql
+- Altri developer core intervenuti in passato
+
+Continuando a chiedere il supporto dei partecipanti nell'organizzazione della prossima edizione del PGDay.It, ci siamo posti 3 domande per noi fondamentali:
+
+**Quali tematiche vorresti che fossero presentate nella prossima edizione del PGDay.IT?**
+
+> - Ottimizzazione query
+- tuning e configurazioni tipo per ambienti specifici OLTP, BI etc.
+- More development related talks
+- PostGIS
+- HA con repmgr
+- Data Patterns, Best practices (both software and 'hardware'), Query optimization
+- Client per PgSql
+- Security, HA, backups, replication, multimaster
+- Insegnare a leggere correttamente un explain
+- PostGIS, pgrouting
+- GIS LBS e PostGIS
+- Talk di business case, rivolti a persone non prettamente tecniche
+- Ottimizzazioni query, exceution plan nel dettaglio
+- Scelta dell'hardware adeguato, esempi pratici di tuning, esempi pratici di troubleshooting.
+- Performance Tuning, Backup/Restore, HA; Replication, SQL Tuning
+- PostGIS
+- More about GIS
+- Approfondimento su table partizionate, indici su tabelle partizionate
+- Strumenti di compliance al gdpr
+- Un talk pratico di statistiche ed ottimizzazioni di postgresql
+- Indici, performance , replica
+- Novità su Postgres 10
+- Bilanciamento delle query su più server, aggiornamenti SW, scelta HW, estensioni
+- Sviluppo software con pgsql , mq con PostgreSQL (vedi oracle AQ)
+- Oracle migration
+- Partizionamento
+- Esempi pratici di file di configurazione e simili per backup, recovery e simili; non solo nomi e immagini con frecce.
+- Postgres XL
+
+Salta all'occhio la forte richiesta verso il GIS, o meglio PostGIS, ....
+
+**L'idea di programmare dei workshop ti sembra interessante?**
+
+Prima di riportare commenti e tematiche di interesse emerse dal feedback form, pensiamo sia doveroso spiegare meglio l'idea dei workshop. Non saranno veri e propri training per ovvi limiti temporali. L'idea è quella di creare sessioni sessioni dove sia possibile sperimentare insieme a tecnici specifiche tecnologie in un arco di tempo che può variare dalle 2 ore e mezzo alle 4 ore. I partecipanti dovranno essere auto-muniti di computer.
+
+Per questa giornata apriremo una call for workshop, cercando di rispettare al massimo le richieste emerse dai partecipanti del [PGDay.IT 2017](http://2017.pgday.it/it/)
+
+> - Si ma 2h 30m sono poche
+- Gli anni scorsi c'era un laboratorio che ha attirato parecchia attenzione. Forse si potrebbe tentare di ripeterla.
+- It is not clear if these workshops would be in a form of lecture with practical examples or free-form hack-lab with additional help from developers/lecturers?
+
+**Quali topic vorresti sperimentare?**
+
+> - Replication, backup / restore scenari di disaster recovery,
+- Query profiling
+- Replicazione, ha, bdr
+- High Availability
+- Parallel programming/querying
+- Backup/recovery
+- Verifiche stato del database
+- Verifica query pesanti e ottimizzazione
+- Writing extensions, new indexes.
+- Writing PostgreSQL extensions
+- Insegnare a leggere correttamente un explain
+- PostGIS - (Ri)scrivere l'SQL per ottenere le massime prestazioni
+- Lo sviluppo di estensioni di PostgreSQL
+- Amministrazione avanzata, tuning, HA, DR
+- Execution plan , best practice to design the structure of a database
+- Db continuity with failover/switchover simulations
+- Tuning, troubleshooting, enterprise setup (HA, DR, etc.)
+- Backup/Restore, Performance
+- PostGIS
+- Disater recovery
+- Ottimizzazione query sql, analisi dell'explain di query complesse
+- Case study of production environments
+- HA solution
+- BDR
+- Analizzare l'utilizzo del mio database PostgreSQL e trovare ottimizzazioni
+- Query profiling and optimization
+- Indici, performance , replica
+- Replication, automation, switchover
+- Postgres HA, Replication setup
+- Dump/Restore
+- Ottimizzazione query, Uso e scelta degli indici
+- Come configurare adeguatamente un sistema e come scrivere query per sfruttare a pieno le potenzialità di Postgres
