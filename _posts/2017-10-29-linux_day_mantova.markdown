@@ -24,11 +24,11 @@ Armato di gadget inneggianti a PostgreSQL e all'ITPUG, Paolo ha avuto la possibi
 Paolo ci racconta la sua esperienza:
 
 > Assolutamente un'esperienza positiva. L'attrazione per i gadget ha dato il via a discussioni interessanti.
-Non è mancata neppure la classica discussione: "MySQL vs PostgreSQL" e per quanto irremovibili fossero entrambe le posizione, il promotore di MySQL ha insistito per avere la maglietta preparata per il PGDay.IT con tanto di licenza PostgreSQL
+Non è mancata neppure la classica discussione: "MySQL vs PostgreSQL" e per quanto irremovibili fossero entrambe le posizioni, il promotore di MySQL ha insistito per avere la maglietta preparata per il PGDay.IT con tanto di licenza PostgreSQL
 
 ![soddisfazione generale]({{site.baseurl}}/assets/img/tshirt.jpg)
 
-> Quello che mi ha fatto riflettere è il livello delle discussioni: più di carattere divulgative, e poco tecniche. Questo è molto indicativo su quanto ci sia da lavorare.
+> Quello che mi ha fatto riflettere è il livello delle discussioni: più di carattere divulgativo, e poco tecniche. Questo è molto indicativo su quanto ci sia da lavorare.
 
 Nuovamente grazie all'[Associazione Culturale LUGMan](http://lugman.org/index.php/Pagina_principale) per averci ospitato.
 
