@@ -11,4 +11,4 @@ Sabato 28 ottobre si è svolta la principale manifestazione italiana dedicata a 
 
 Dal 2001 il [Linux Day](http://www.linuxday.it/) è una iniziativa distribuita per conoscere ed approfondire Linux ed il software libero. Si compone di numerosi eventi locali, organizzati autonomamente da gruppi di appassionati nelle rispettive città, tutti nello stesso giorno. In tale contesto puoi trovare talks, workshops, spazi per l'assistenza tecnica, gadgets, dibattiti e dimostrazioni pratiche.
 
-Noi di [ITPUG - ITalian PostgreSQL Users Group](http://www.itpug.org/index.it.html) eravamo presenti a [Mantova](/blog.itpug/linux_day_mantova/) e a [Trieste](/blog.itpug/linux_day_trieste/).
+Noi di [ITPUG - ITalian PostgreSQL Users Group](http://www.itpug.org/index.it.html) eravamo presenti a [Mantova](https://itpug.github.io/blog.itpug.org/linux_day_mantova/) e a [Trieste](/blog.itpug.org/linux_day_trieste/).
