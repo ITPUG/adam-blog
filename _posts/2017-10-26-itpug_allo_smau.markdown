@@ -29,7 +29,10 @@ Già la prima domanda è stata utile per comprendere
 
 Patrizia Dabizzi, Tesoriere dell'Associazione [ITPUG - ITalian PostgreSQL Users Group](http://www.itpug.org/index.it.html) ci racconta la sua esperienza:
 
->xxxx
+>>Esperienza insolita.
+Mi trovo al di fuori del mio ambito lavorativo e quindi è tutto nuovo per me.
+Bello vedere l'entusiasmo degli studenti. Sconfortante constatare quanta mancata informazione esiste ancora nelle aziende.
+Questo evidenzia quanto lavoro abbiamo ancora da fare per diffondere la cultura opensource e quanto sia importante essere presenti a queste manifestazioni.
 
 Barbara Milani, Segretario dell'Associazione [ITPUG - ITalian PostgreSQL Users Group](http://www.itpug.org/index.it.html) ci racconta la sua esperienza:
 
