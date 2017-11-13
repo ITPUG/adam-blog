@@ -25,7 +25,7 @@ L'attrazione per i gadget ha fatto si che molte persone si avvicinassero in modo
 - _conosci l'Open Source?_
 - _conosci PostgreSQL?_
 
-Già la prima domanda è stata utile per comprendere  
+Già con la prima domanda è stato chiaro quanto il pubblico dello [Smau ICT](https://www.smau.it/milano17/) fosse informato su queste tematiche. La risposta che meglio riassume il livello di conoscenza sull'Open Source è stata questa: "_Certo che conosco l'Open Source, uso Microsoft!"_"
 
 Patrizia Dabizzi, Tesoriere dell'Associazione [ITPUG - ITalian PostgreSQL Users Group](http://www.itpug.org/index.it.html) ci racconta la sua esperienza:
 
@@ -36,7 +36,12 @@ Questo evidenzia quanto lavoro abbiamo ancora da fare per diffondere la cultura 
 
 Barbara Milani, Segretario dell'Associazione [ITPUG - ITalian PostgreSQL Users Group](http://www.itpug.org/index.it.html) ci racconta la sua esperienza:
 
->xxxx
+>Ho provato una forte emozione quando una persona si è avvicinata e mi ha detto che non solo conosceva PostgreSQL ma che la sua azienda aveva adottato questa tecnologia da anni. Gli avrei dato tutti i gadget presenti al desk! 
 
-Riteniamo sia fondamentale presenziare a conferenze, eventi, manifestazioni e fiere per divulgare al massimo delle nostre possibilità l'Open Source e PostgreSQL, visto il basso livello di informazione su questi argomenti.
-Restare all'interno di circuiti
+Questa esperianza è stata fondamentale per aiutarci a comprendere quanto sia importante presenziare a conferenze, eventi, manifestazioni e fiere al di fuori del "_classico circuuito_" dedicato a PostgreSQL e all'Open Source. 
+
+La nostra partecipazione allo [Smau ICT](https://www.smau.it/milano17/) ci ha permesso anche di creare nuove relazioni che potranno risultare importanti anche per la prossima edizione del PGDay.IT, ma non solo.
+
+Ultima segnalazione: i nostri amici di [Seeweb](https://www.seeweb.it/). Li abbiamo ritrovati con piacere allo [Smau ICT](https://www.smau.it/milano17/) e per "_consolarci_" Marco Cristofanilli è diventato socio [ITPUG - ITalian PostgreSQL Users Group](http://www.itpug.org/index.it.html). Benvenuto Marco!
+
+Buon PostgreSQL a tutti!
