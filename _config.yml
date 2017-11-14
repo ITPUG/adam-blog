@@ -5,8 +5,8 @@ description: > # this means to ignore newlines until "baseurl:"
   In modo particolare, l'associazione ITPUG promuove l'adozione  di PostgreSQL (http://www.postgresql.org), uno dei progetti open source di maggior successo.
 
 permalink: ':title/'
-baseurl: "/blog.itpug.org" # the subpath of your site, e.g. /blog
-url: "https://itpug.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http:///blog.itpug.org" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author settings
 author: ITPUG - ITalian PostgreSQL Users Group # add your name
