@@ -30,7 +30,10 @@ layout: default
         </div>
         {% include author-box.html %}
         {% include recent-post.html %}
-        {% include newsletter.html %}
+
+        {% if site.mailchimp %}
+          {% include newsletter.html %}
+        {% endif %}
 
       </div>
     </div> <!-- End Wrapper -->
