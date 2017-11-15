@@ -1,8 +1,6 @@
 title: Il nostro blog ITPUG - ITalian PostgreSQL Users Group
 email: info@itpug.org
-description: > # this means to ignore newlines until "baseurl:"
-  ITPUG - Italian PostgreSQL Users Group è una associazione no-profit per la promozione, divulgazione e la tutela del Software Libero (FLOSS) in Italia.
-  In modo particolare, l'associazione ITPUG promuove l'adozione  di PostgreSQL (http://www.postgresql.org), uno dei progetti open source di maggior successo.
+description: ITPUG - Italian PostgreSQL Users Group è una associazione no-profit per la promozione e divulgazione del software database Open Source  PostgreSQL, e in generale del Software Libero (FLOSS) in Italia.
 
 permalink: ':title/'
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -11,8 +9,8 @@ url: "http:///blog.itpug.org" # the base hostname & protocol for your site, e.g.
 # Author settings
 author: ITPUG - ITalian PostgreSQL Users Group # add your name
 author-pic: itpug_logo125.jpg
-about-author: ITPUG - Italian PostgreSQL Users Group è una associazione no-profit per la promozione, divulgazione e la tutela del Software Libero (FLOSS) in Italia.
-    In modo particolare, l'associazione ITPUG promuove l'adozione  di PostgreSQL (http://www.postgresql.org), uno dei progetti open source di maggior successo.
+about-author: ITPUG - Italian PostgreSQL Users Group è una associazione no-profit per la promozione e divulgazione del software database Open Source  PostgreSQL, e in generale del Software Libero (FLOSS) in Italia.
+
 
 # Contact links
 email: info@itpug.org # Add your Email address
