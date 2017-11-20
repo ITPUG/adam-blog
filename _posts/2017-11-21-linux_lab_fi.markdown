@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  LinuxLab 2017 - Firenze
-date:   2017-11-20 03:32:20 +0300
+date:   2017-11-21 13:32:20 +0300
 description: Il 6 e 7 dicembre 2017 si svolgerà a Firenze il LinuxLab 2017. Due track per due giorni, dedicate a Kernel, Containers, Embedded e Cloud, e una traccia al giorno rivolta alla formazione hands-on sotto forma di training.  # Add post description (optional)
 img: linuxlab.jpg # Add image post (optional)
 tags: [Blog, ITPUG, Conferenze]
