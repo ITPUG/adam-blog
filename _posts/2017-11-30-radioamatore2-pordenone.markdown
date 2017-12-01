@@ -17,7 +17,7 @@ Grazie alla disponibilità di Andrej Sossi, Socio [ITPUG](http://www.itpug.org/i
 
 Per l'occasione, Andrej ha condiviso il desk con Mittelab, IAL FVG (scuola professionale) e il LINOLAB (Fablab di Pordenone).
 
-![soddisfazione generale]({{site.baseurl}}/assets/img/IMG_20171119_123714.jpg)
+![soddisfazione generale]({{site.baseurl}}/assets/img/radioamatore-desk.jpg)
 
 Andrej ci racconta la sua esperienza:
 
@@ -38,6 +38,6 @@ Grazie ad Andrej per la sua disponibilità e per aver rappresentanto anche in qu
 
 Grazie alla Fiera del [Radioamatore 2](http://2.radioamatorepordenone.it/#) per averci ospitato.
 
-![soddisfazione generale]({{site.baseurl}}/assets/img/Fiera2-6540.jpg)
+![soddisfazione generale]({{site.baseurl}}/assets/img/radioamatore-panoramica.jpg)
 
 Buon PostgreSQL a tutti!
