@@ -22,9 +22,7 @@ Per l'occasione, Andrej ha condiviso il desk con Mittelab, IAL FVG (scuola profe
 Andrej ci racconta la sua esperienza:
 
 > Le due giornate di presenza alla fiera sono state abbastanza impegnative.
-Non ho dati ufficiali, ma valuto
-l'affluenza intorno a 100-200k visitatori. Come al solito a questo
-tipo di fiere i visitatori sono vari e variegati. Parecchie persone si
+Non ho al momento dati ufficiali sul numero dei visitatori, ma la mia percezione è che siano stati molti di più delle scorse edizioni. Come al solito a questo tipo di fiere i visitatori sono vari e variegati. Parecchie persone si
 sono fermate a chiedere informazioni, da chi chiedeva cosa vendiamo a
 chi invece mi ha fatto domande precise su PostgreSQL. Le discussioni più
 interessanti sono state inerenti a:
