@@ -21,7 +21,7 @@ Il ruolo di Partner del [LinuxLab 2017](https://2017.linux-lab.it/) ci ha permes
 
 ![desk]({{site.baseurl}}/assets/img/desk_itpug_linuxlab.jpg)
 
-In rappresentanza di [ITPUG](http://www.itpug.org/index.it.html) Francesco Canovai e Rubens Souza oltre al supporto di Jonathan Battiato. Tra i partecipanti al [LinuxLab 2017](https://2017.linux-lab.it/) era presente un altro socio di ITPUG: Torello Querci.
+In rappresentanza di [ITPUG](http://www.itpug.org/index.it.html) Francesco Canovai e Rubens Souza oltre al supporto di Jonathan Battiato. Tra i partecipanti al [LinuxLab 2017](https://2017.linux-lab.it/) era presente anche Torello Querci, uno dei fondatori di [ITPUG](http://www.itpug.org/index.it.html).
 
 La conferenza è risultata molto interessante ed in particolare è stato molto apprezzato il talk di [Andrea Righi](https://2017.linux-lab.it/speakers/andrea_righi/) sugli strumenti offerti da Linux per l'individuazione dei bottleneck.
 Tanto apprezzato che è stato invitato ad inviare una proposta di talk per il prossimo PGDay.IT che si terrà sul Lago di Garda il 29 giugno 2018.
