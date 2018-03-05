@@ -1,0 +1,28 @@
+---
+layout: post
+title:  PyCon Nove  - Firenze
+date:   2018-03-04 13:32:20 +0300
+description: Dal 19 al 22 aprile 2018, si terrà a Firenze PyCon Nove. Talk in italiano ed in inglese che si alterneranno tra le cinque track in programma. Il giorno 19 aprile giornata interamente dedicata ai workshop. Dal 20 al 22 aprile avrà luogo la conferenza vera e propria. # Add post description (optional)
+img: PyconNove.jpg # Add image post (optional)
+tags: [Blog, ITPUG, Conferenze]
+author: ITPUG - ITalian PostgreSQL Users Group # Add name author (optional)
+---
+Dal 19 al 22 aprile 2018, si terrà a Firenze [PyCon Nove](https://www.pycon.it/it/). Talk in italiano ed in inglese che si alterneranno tra le cinque track in [programma](https://www.pycon.it/p3/schedule/pycon9/). Il giorno 19 aprile giornata interamente dedicata ai workshop. Dal 20 al 22 aprile avrà luogo la conferenza vera e propria.
+
+L’evento si si svolgerà a Firenze presso il [Grand Hotel Mediterraneo](https://www.pycon.it/it/dove/) ed è stato organizzato da Python Italia, l'associazione che ha come punta di diamante della sua attività l'organizzazione di PyCon Italia, la conferenza italiana su Python.
+
+Ogni anno il PyCon attira un gran numero di partecipanti da tutta Italia e da tutta Europa. Un'appuntamento assolutamente immancabile per gli amanti di Python.
+
+![platea]({{site.baseurl}}/assets/img/pubblico_pycon.jpg)
+
+Importante è il lavoro degli organizzatori, che ogni anno permettono ai partecipanti di godersi a pieno la conferenza senza nessuno intoppo!
+
+![platea]({{site.baseurl}}/assets/img/organizzatori_pycon.jpg)
+
+[ITPUG](http://www.itpug.org/index.it.html) sarà presente anche quest'anno al PyCon Nove come sponsor della manifestazione ma non solo.
+
+Alcuni dei nostri soci presenteranno dei talk su PostgreSQL nelle track "PyDatabase" e "PyWeb / DevOps" e come ogni anno ci aspettiamo la sala piena!
+
+Al desk [ITPUG](http://www.itpug.org/index.it.html) il Tesoriere, Patrizia Dabizzi, ed il Segretario, Barbara Milani. Attive nella promozione del [PGDay.IT 2018](https://2018.pgday.it/it/), tenteranno di convogliare nuova linfa all'interno dell'Associazione.
+
+Buon PostgreSQL a tutti!
