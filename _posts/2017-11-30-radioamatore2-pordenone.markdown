@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Radioamatore 2, 2017 - Portenone
+title:  Radioamatore 2, 2017 - Pordenone
 date:   2017-11-30 13:32:20 +0300
 description: Sabato 18 e Dobenica 19 novembre si è svolta a Pordenone la Fiera del Radioamatore # Add post description (optional)
 img: radioamatore2.jpg # Add image post (optional)
